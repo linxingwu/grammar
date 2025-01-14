@@ -35,6 +35,7 @@ export default class App extends React.Component {
   }
 
   click = async () => {
+    return 
     /**
      * Insert your Outlook code here
      */
